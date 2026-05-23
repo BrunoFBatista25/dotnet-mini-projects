@@ -1,6 +1,6 @@
 public class Main
 {
-    public static void Main(string[] args)
+    static void Main(string[] args)
     {
         double[] vector1 = { 1.0, 2.0, 3.0 };
         double[] vector2 = { 1.0, 2.0, 3.0 };

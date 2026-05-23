@@ -1,7 +1,8 @@
+namespace deltakronecker.Implementation;
 
-public class DeltaKronecker : IMetric
+class DeltaKronecker : IMetric
 {
-    public double Condition(double[] i, double[] j)
+    double Condition(double[] i, double[] j)
     {
         if (i.Length != j.Length)
         {
