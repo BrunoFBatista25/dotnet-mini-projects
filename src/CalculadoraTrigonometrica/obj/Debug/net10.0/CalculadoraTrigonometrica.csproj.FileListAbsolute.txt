@@ -1,0 +1,15 @@
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\CalculadoraTrigonometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\CalculadoraTrigonometrica.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\CalculadoraTrigonometrica.AssemblyInfo.cs
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\CalculadoraTrigonometrica.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\CalculadoraTrigonometrica.sourcelink.json
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\bin\Debug\net10.0\CalculadoraTrigonometrica.exe
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\bin\Debug\net10.0\CalculadoraTrigonometrica.deps.json
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\bin\Debug\net10.0\CalculadoraTrigonometrica.runtimeconfig.json
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\bin\Debug\net10.0\CalculadoraTrigonometrica.dll
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\bin\Debug\net10.0\CalculadoraTrigonometrica.pdb
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\CalculadoraTrigonometrica.dll
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\refint\CalculadoraTrigonometrica.dll
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\CalculadoraTrigonometrica.pdb
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\CalculadoraTrigonometrica.genruntimeconfig.cache
+C:\Users\lucia\source\repos\BrunoFBatista25\dotnet-mini-projects\src\CalculadoraTrigonometrica\obj\Debug\net10.0\ref\CalculadoraTrigonometrica.dll

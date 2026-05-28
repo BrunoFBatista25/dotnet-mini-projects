@@ -1,6 +1,6 @@
 namespace MetricCalculator.Interface;
 	
-interface IMetric<T>
+public interface IMetric<T>
 {
 	double Condition<T>(T[] i, T[] j);
 }

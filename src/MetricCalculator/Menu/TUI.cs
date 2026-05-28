@@ -1,25 +1,28 @@
 
 namespace MetricCalculator.Menu;
 
-public class TUI
+class TUI
 {
-    public void DisplayMenu()
+    public void AmostraMenu()
     {
-        Console.WriteLine("Welcome to the Metric Calculator!");
-        Console.WriteLine("Please select an option:");
-        Console.WriteLine("1. Calculate Area");
-        Console.WriteLine("2. Calculate Perimeter");
-        Console.WriteLine("3. Exit");
+        Console.Clear();
+        Console.WriteLine("Bem vindo a o Calculador da distâncias!");
+        Console.WriteLine("Escolha uma opção:");
+        Console.WriteLine("1. Calcular a Distância.");
+        Console.WriteLine("2. Sair");
     }
-    public int GetUserChoice()
+   public int EscolhaDoUser()
     {
-        Console.Write("Enter your choice: ");
+        Console.Write("Escolha: ");
         int choice;
-        while (!int.TryParse(Console.ReadLine(), out choice) || choice < 1 || choice > 3)
-        {
-            Console.Write("Invalid input. Please enter a number between 1 and 3: ");
-        }
-        return choice;
+        while (true) {
+
+            Console.WriteLine("Envie um número entre 1 e 2.");
+            if (!int.TryParse(Console.ReadLine(), out choice) && choice >= 1 && choice <= 2) {
+                return choice;
+            }
+            Console.WriteLine("Valor Inválido! Digite um número entre 1 e 2.");
+        } return 0;
     }
 }
-//Terminal User Interface (TUI) for the Metric Calculator application.
+//Terminal User Interface (TUI) da Metrica.
