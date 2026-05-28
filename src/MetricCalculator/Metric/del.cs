@@ -1,9 +1,17 @@
 namespace Metric.del;
 
-class del<T> : IMetric<T>
+using System;
+using System.Collections.Generic;
+
+class Del<T> : IMetric<T>
 {
-    public double Condition(T[] i, T[] j)
+    double Condition(T[] i, T[] j)
+{
+        if (i == NULL || j == NULL) 
     {
+        throw new ArgumentNullException("Os Vetores não podem ser nulos."); 
+        }
+
         if (i.Length != j.Length)
         {
             throw new ArgumentException("Os Vetores devem possuir o mesmo tamanho.");
@@ -17,6 +25,5 @@ class del<T> : IMetric<T>
         }
         return 1.0;
     }
-
 
 }
